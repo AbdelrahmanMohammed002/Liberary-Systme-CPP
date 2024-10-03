@@ -1,0 +1,8 @@
+﻿  Book.cpp
+  BookList.cpp
+  Online Liberary System CPP.cpp
+  User.cpp
+  UserList.cpp
+  Generating Code...
+D:\Study\Embedded track\projects\Liberary-Systme-CPP\Online Liberary System CPP\BookList.cpp(107,1): warning C4715: 'BookList::operator[]': not all control paths return a value
+  Online Liberary System CPP.vcxproj -> D:\Study\Embedded track\projects\Liberary-Systme-CPP\Online Liberary System CPP\x64\Debug\Online Liberary System CPP.exe
